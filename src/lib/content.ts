@@ -1,0 +1,16 @@
+export {
+  PROFILE,
+  experiences,
+  skillGroups,
+  socials,
+  marqueeTech,
+  projectSeed,
+  postSeed,
+  impactStats,
+  recruiterFacts,
+  idealRoles,
+  leadershipPillars,
+  decisions,
+  scorecard,
+  collaboration,
+} from "@/db/seed-data";
